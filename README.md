@@ -10,18 +10,34 @@ I am convinced that technology can make a difference, and I am excited to contri
 
 # Tech Stack:
 <p align="left">
+  <!-- Lenguajes principales -->
   <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="50">
   <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="50">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50">
-  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="50">
-  <img src="https://techstack-generator.vercel.app/pug-icon.svg" alt="Pug" width="50">
-  <img src="https://techstack-generator.vercel.app/illustrator-icon.svg" alt="Adobe Illustrator" width="50">
-  <img src="https://techstack-generator.vercel.app/adobe_xd-icon.svg" alt="Adobe XD" width="50">
-  <img src="https://techstack-generator.vercel.app/cisco-icon.svg" alt="Cisco" width="50">
   <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="50">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50">
+
+  <!-- Herramientas de backend -->
   <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50">
+  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="50">
+
+  <!-- Bases de datos -->
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50">
+
+  <!-- Frontend frameworks -->
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50">
+  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="50">
+
+  <!-- Herramientas de diseño -->
+  <img src="https://techstack-generator.vercel.app/illustrator-icon.svg" alt="Adobe Illustrator" width="50">
+  <img src="https://techstack-generator.vercel.app/adobe_xd-icon.svg" alt="Adobe XD" width="50">
+
+  <!-- Otras herramientas -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50">
 </p>
+
 
 
 
