@@ -9,51 +9,51 @@ I am convinced that technology can make a difference, and I am excited to contri
 
 
 # Tech Stack:
-<table>
+<table style="text-align: center; margin: auto;">
     <tr>
-        <td>
-            <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50">
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65">
             <p>HTML5</p>
         </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50">
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65">
             <p>CSS3</p>
         </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50">
+        <td style="text-align: center;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 65px; height: 65px;">
+            <p>JavaScript</p>
+        </td>
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65">
             <p>NodeJS</p>
         </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50">
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=express" alt="Express" width="65">
             <p>Express</p>
         </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=pug" alt="Pug" width="50">
-            <p>Pug</p>
-        </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" width="50">
-            <p>Adobe Illustrator</p>
-        </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=adobexd" alt="Adobe XD" width="50">
-            <p>Adobe XD</p>
-        </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="50">
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="65">
             <p>Cisco</p>
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 65px; height: 65px;">
-            <p>JavaScript</p>
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=pug" alt="Pug" width="65">
+            <p>Pug</p>
         </td>
-        <td>
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" width="65">
+            <p>Adobe Illustrator</p>
+        </td>
+        <td style="text-align: center;">
+            <img src="https://skillicons.dev/icons?i=adobexd" alt="Adobe XD" width="65">
+            <p>Adobe XD</p>
+        </td>
+        <td style="text-align: center;">
             <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" style="width: 65px; height: 65px;">
             <p>C#</p>
         </td>
-        <td>
+        <td style="text-align: center;">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" style="width: 65px; height: 65px;">
             <p>GitHub</p>
         </td>
