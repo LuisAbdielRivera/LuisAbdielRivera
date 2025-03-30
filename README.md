@@ -62,8 +62,6 @@ I am convinced that technology can make a difference, and I am excited to contri
         alt="Express" />
       <br />Express
     </td>
-  </tr>
-  <tr>
     <td align="center" width="128">
       <img
         src="https://skillicons.dev/icons?i=tailwind"
@@ -88,6 +86,8 @@ I am convinced that technology can make a difference, and I am excited to contri
         alt="PHP" />
       <br />PHP
     </td>
+  </tr>
+  <tr>
     <td align="center" width="128">
       <img
         src="https://skillicons.dev/icons?i=vscode"
@@ -96,16 +96,6 @@ I am convinced that technology can make a difference, and I am excited to contri
         alt="VsCode" />
       <br />VsCode
     </td>
-    <td align="center" width="128">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cisco_logo.svg/512px-Cisco_logo.svg.png"
-        width="65"
-        height="65"
-        alt="Cisco" />
-      <br />Cisco
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/github-icon.svg"
@@ -147,16 +137,6 @@ I am convinced that technology can make a difference, and I am excited to contri
       <br />C#
     </td>
   </tr>
-  <tr>
-    <td align="center" width="128">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg"
-        width="65"
-        height="65"
-        alt="Pug" />
-      <br />Pug
-    </td>
-  </tr>
 </table>
 
 <h2 align="center">GitHub Stats:</h2>
@@ -166,6 +146,11 @@ I am convinced that technology can make a difference, and I am excited to contri
 <br clear="both" />
 
 <p align="center">
+  <a href="https://github.com/LuisAbdielRivera?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisAbdielRivera&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2" 
+      width="54%" 
+      alt="Languages Graph" />
+</a>
   <a href="https://github.com/LuisAbdielRivera?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true"
       width="49%"
