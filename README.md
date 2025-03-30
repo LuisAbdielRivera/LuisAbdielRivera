@@ -18,11 +18,27 @@ I am convinced that technology can make a difference, and I am excited to contri
   <tr>
     <td align="center" width="128">
       <img
+        src="https://skillicons.dev/icons?i=html"
+        width="65"
+        height="65"
+        alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="128">
+      <img
         src="https://techstack-generator.vercel.app/js-icon.svg"
         alt="icon"
         width="65"
         height="65" />
       <br />JavaScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=css"
+        width="65"
+        height="65"
+        alt="CSS3" />
+      <br />CSS3
     </td>
     <td align="center" width="128">
       <img
@@ -42,14 +58,6 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
   </tr>
   <tr>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=html"
-        width="65"
-        height="65"
-        alt="HTML5" />
-      <br />HTML5
-    </td>
     <td align="center" width="128">
       <img
         src="https://skillicons.dev/icons?i=tailwind"
@@ -81,6 +89,14 @@ I am convinced that technology can make a difference, and I am excited to contri
         height="65"
         alt="VsCode" />
       <br />VsCode
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo.svg"
+        width="65"
+        height="65"
+        alt="Cisco" />
+      <br />Cisco
     </td>
   </tr>
   <tr>
@@ -118,22 +134,6 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
   </tr>
   <tr>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=css"
-        width="65"
-        height="65"
-        alt="CSS3" />
-      <br />CSS3
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo.svg"
-        width="65"
-        height="65"
-        alt="Cisco" />
-      <br />Cisco
-    </td>
     <td align="center" width="128">
       <img
         src="https://skillicons.dev/icons?i=csharp"
