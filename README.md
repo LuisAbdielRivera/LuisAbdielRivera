@@ -100,6 +100,48 @@ I am convinced that technology can make a difference, and I am excited to contri
         alt="Git" />
       <br />Git
     </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=xd"
+        width="65"
+        height="65"
+        alt="AdobeXD" />
+      <br />AdobeXD
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=ai"
+        width="65"
+        height="65"
+        alt="Adobe Illustrator" />
+      <br />Adobe Illustrator
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=css"
+        width="65"
+        height="65"
+        alt="CSS3" />
+      <br />CSS3
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo.svg"
+        width="65"
+        height="65"
+        alt="Cisco" />
+      <br />Cisco
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=csharp"
+        width="65"
+        height="65"
+        alt="C#" />
+      <br />C#
+    </td>
   </tr>
 </table>
 
