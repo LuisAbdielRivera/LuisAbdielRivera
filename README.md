@@ -154,9 +154,18 @@ I am convinced that technology can make a difference, and I am excited to contri
 
 <br clear="both" />
 
-![](https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/LuisAbdielRivera?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  </a>
+  <a href="https://github.com/LuisAbdielRivera?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
 
 ---
 <h2 align="center">Random Dev Quote</h2>
@@ -165,6 +174,8 @@ I am convinced that technology can make a difference, and I am excited to contri
 
 <br clear="both" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
