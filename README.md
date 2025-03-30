@@ -159,9 +159,6 @@ I am convinced that technology can make a difference, and I am excited to contri
   <a href="https://github.com/LuisAbdielRivera?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
   </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
   <a href="https://github.com/LuisAbdielRivera?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true"/>
   </a>
