@@ -4,7 +4,7 @@
 
 <br clear="both" />
 
-<p align="center">
+<p>
 Hello! I am Luis Abdiel Rivera Gayosso, a university student from Mexico, passionate about programming and with a strong desire to learn and grow in the technological world.
 
 As a committed student, I have built a solid foundation in programming and am eager to apply my knowledge in practical contexts. My approach is simple: every challenge is an opportunity to improve and expand my skills.
