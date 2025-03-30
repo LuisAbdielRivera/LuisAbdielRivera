@@ -98,7 +98,7 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
     <td align="center" width="128">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/cisco-6.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cisco_logo.svg/512px-Cisco_logo.svg.png"
         width="65"
         height="65"
         alt="Cisco" />
@@ -150,7 +150,7 @@ I am convinced that technology can make a difference, and I am excited to contri
   <tr>
     <td align="center" width="128">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg"
         width="65"
         height="65"
         alt="Pug" />
