@@ -9,57 +9,56 @@ I am convinced that technology can make a difference, and I am excited to contri
 
 
 # Tech Stack:
-<table style="text-align: center; margin: auto;">
+<table style="text-align: center; margin: auto; border-spacing: 10px;">
     <tr>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65">
-            <p style="text-align: center;">HTML5</p>
+            <p style="margin: 0; text-align: center;">HTML5</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65">
-            <p style="text-align: center;">CSS3</p>
+            <p style="margin: 0; text-align: center;">CSS3</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 65px; height: 65px;">
-            <p style="text-align: center;">JavaScript</p>
+            <p style="margin: 0; text-align: center;">JavaScript</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65">
-            <p style="text-align: center;">NodeJS</p>
+            <p style="margin: 0; text-align: center;">NodeJS</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=express" alt="Express" width="65">
-            <p style="text-align: center;">Express</p>
+            <p style="margin: 0; text-align: center;">Express</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="65">
-            <p style="text-align: center;">Cisco</p>
+            <p style="margin: 0; text-align: center;">Cisco</p>
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=pug" alt="Pug" width="65">
-            <p style="text-align: center;">Pug</p>
+            <p style="margin: 0; text-align: center;">Pug</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" width="65">
-            <p style="text-align: center;">Illustrator</p>
+            <p style="margin: 0; text-align: center;">Illustrator</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://skillicons.dev/icons?i=adobexd" alt="Adobe XD" width="65">
-            <p style="text-align: center;">Adobe XD</p>
+            <p style="margin: 0; text-align: center;">Adobe XD</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" style="width: 65px; height: 65px;">
-            <p style="text-align: center;">C#</p>
+            <p style="margin: 0; text-align: center;">C#</p>
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" style="width: 65px; height: 65px;">
-            <p style="text-align: center;">GitHub</p>
+            <p style="margin: 0; text-align: center;">GitHub</p>
         </td>
     </tr>
 </table>
-
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
