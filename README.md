@@ -98,7 +98,7 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
     <td align="center" width="128">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cisco_logo.svg"
+        src="https://cdn.worldvectorlogo.com/logos/cisco-6.svg"
         width="65"
         height="65"
         alt="Cisco" />
@@ -143,17 +143,17 @@ I am convinced that technology can make a difference, and I am excited to contri
         src="https://techstack-generator.vercel.app/csharp-icon.svg"
         width="65"
         height="65"
-        alt="icon" />
+        alt="C#" />
       <br />C#
     </td>
   </tr>
   <tr>
     <td align="center" width="128">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/a/af/Pug_JavaScript_Logo.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg"
         width="65"
         height="65"
-        alt="icon" />
+        alt="Pug" />
       <br />Pug
     </td>
   </tr>
