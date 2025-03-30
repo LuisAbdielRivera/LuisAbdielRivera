@@ -43,7 +43,7 @@ I am convinced that technology can make a difference, and I am excited to contri
         </td>
         <td style="text-align: center;">
             <img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" width="65">
-            <p>Adobe Illustrator</p>
+            <p>Illustrator</p>
         </td>
         <td style="text-align: center;">
             <img src="https://skillicons.dev/icons?i=adobexd" alt="Adobe XD" width="65">
