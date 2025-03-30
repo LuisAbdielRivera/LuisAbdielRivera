@@ -97,7 +97,7 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
     <td align="center" width="128">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo.svg"
         width="65"
         height="65"
         alt="Cisco" />
@@ -148,14 +148,23 @@ I am convinced that technology can make a difference, and I am excited to contri
   </tr>
 </table>
 
-# GitHub Stats:
+<h2 align="center">GitHub Stats:</h2>
+
+###
+
+<br clear="both" />
+
 ![](https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<h2 align="center">Random Dev Quote</h2>
 
-### Random Dev Quote
+###
+
+<br clear="both" />
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
