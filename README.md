@@ -20,7 +20,7 @@ I am convinced that technology can make a difference, and I am excited to contri
             <p>CSS3</p>
         </td>
         <td style="text-align: center;">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 100px; height: 100px;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 65px; height: 65px;">
             <p>JavaScript</p>
         </td>
         <td style="text-align: center;">
@@ -50,11 +50,11 @@ I am convinced that technology can make a difference, and I am excited to contri
             <p>Adobe XD</p>
         </td>
         <td style="text-align: center;">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" style="width: 100px; height: 100px;">
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" style="width: 65px; height: 65px;">
             <p>C#</p>
         </td>
         <td style="text-align: center;">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" style="width: 100px; height: 100px;">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" style="width: 65px; height: 65px;">
             <p>GitHub</p>
         </td>
     </tr>
