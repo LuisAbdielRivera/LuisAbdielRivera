@@ -1,4 +1,9 @@
-# About Me:
+<h2 align="center"> About Me:</h2>
+
+###
+
+<br clear="both" />
+
 Hello! I am Luis Abdiel Rivera Gayosso, a university student from Mexico, passionate about programming and with a strong desire to learn and grow in the technological world.
 
 As a committed student, I have built a solid foundation in programming and am eager to apply my knowledge in practical contexts. My approach is simple: every challenge is an opportunity to improve and expand my skills.
@@ -92,7 +97,7 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
     <td align="center" width="128">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg"
         width="65"
         height="65"
         alt="Cisco" />
