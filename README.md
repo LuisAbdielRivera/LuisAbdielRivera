@@ -151,6 +151,7 @@ I am convinced that technology can make a difference, and I am excited to contri
       width="49%"
       />
   </a>
+  
   <a href="https://github.com/LuisAbdielRivera?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
       width="49%"
@@ -165,7 +166,7 @@ I am convinced that technology can make a difference, and I am excited to contri
       alt="Languages Graph" />
 </a>
 </div>
----
+
 <h2 align="center">Random Dev Quote</h2>
 
 ###
