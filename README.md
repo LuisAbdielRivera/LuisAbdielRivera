@@ -4,6 +4,7 @@
 
 <br clear="both" />
 
+<p align="center">
 Hello! I am Luis Abdiel Rivera Gayosso, a university student from Mexico, passionate about programming and with a strong desire to learn and grow in the technological world.
 
 As a committed student, I have built a solid foundation in programming and am eager to apply my knowledge in practical contexts. My approach is simple: every challenge is an opportunity to improve and expand my skills.
@@ -11,7 +12,7 @@ As a committed student, I have built a solid foundation in programming and am ea
 I love participating in diverse projects that challenge me and allow me to develop as a professional. In addition to my technical skills, I value collaboration and believe in the importance of teamwork.
 
 I am convinced that technology can make a difference, and I am excited to contribute to innovative projects. If you are looking for someone with a positive mindset, results-oriented and willing to learn, I would be happy to be part of your team.
-
+</p>
 
 <h2 align="center">Tech Stack:</h2>
 
@@ -161,10 +162,9 @@ I am convinced that technology can make a difference, and I am excited to contri
   <a href="https://github.com/LuisAbdielRivera?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true"/>
   </a>
-</p>
-
-<p align="center">
+  <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  </a>
 </p>
 
 ---
