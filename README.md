@@ -98,7 +98,7 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=cisco"
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cisco_logo.svg"
         width="65"
         height="65"
         alt="Cisco" />
@@ -145,6 +145,16 @@ I am convinced that technology can make a difference, and I am excited to contri
         height="65"
         alt="icon" />
       <br />C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/a/af/Pug_JavaScript_Logo.svg"
+        width="65"
+        height="65"
+        alt="icon" />
+      <br />Pug
     </td>
   </tr>
 </table>
