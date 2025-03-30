@@ -98,7 +98,7 @@ I am convinced that technology can make a difference, and I am excited to contri
     </td>
     <td align="center" width="128">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo.svg"
+        src="https://skillicons.dev/icons?i=cisco"
         width="65"
         height="65"
         alt="Cisco" />
@@ -157,10 +157,14 @@ I am convinced that technology can make a difference, and I am excited to contri
 
 <p align="center">
   <a href="https://github.com/LuisAbdielRivera?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LuisAbdielRivera&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
+      width="49%"
+      />
   </a>
   <a href="https://github.com/LuisAbdielRivera?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true"
+      width="49%"
+      />
   </a>
 </p>
 
