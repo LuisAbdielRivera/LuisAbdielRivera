@@ -146,11 +146,6 @@ I am convinced that technology can make a difference, and I am excited to contri
 <br clear="both" />
 
 <p align="center">
-  <a href="https://github.com/LuisAbdielRivera?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisAbdielRivera&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2" 
-      width="54%" 
-      alt="Languages Graph" />
-</a>
   <a href="https://github.com/LuisAbdielRivera?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAbdielRivera&theme=dark&hide_border=true"
       width="49%"
@@ -163,6 +158,13 @@ I am convinced that technology can make a difference, and I am excited to contri
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/LuisAbdielRivera?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisAbdielRivera&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dark&hide_border=true&order=2" 
+      width="54%" 
+      alt="Languages Graph" />
+</a>
+</div>
 ---
 <h2 align="center">Random Dev Quote</h2>
 
