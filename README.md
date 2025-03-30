@@ -32,7 +32,7 @@ I am convinced that technology can make a difference, and I am excited to contri
             <p style="margin: 0; text-align: center;">Express</p>
         </td>
         <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="65">
+            <img src="https://www.flaticon.com/svg/static/icons/svg/1083/1083807.svg" alt="Cisco" width="65">
             <p style="margin: 0; text-align: center;">Cisco</p>
         </td>
     </tr>
@@ -46,7 +46,7 @@ I am convinced that technology can make a difference, and I am excited to contri
             <p style="margin: 0; text-align: center;">Illustrator</p>
         </td>
         <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=adobexd" alt="Adobe XD" width="65">
+            <img src="https://www.flaticon.com/svg/static/icons/svg/888/888903.svg" alt="Adobe XD" width="65">
             <p style="margin: 0; text-align: center;">Adobe XD</p>
         </td>
         <td style="text-align: center; vertical-align: middle;">
