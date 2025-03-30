@@ -132,14 +132,12 @@ I am convinced that technology can make a difference, and I am excited to contri
         alt="Adobe Illustrator" />
       <br />Adobe Illustrator
     </td>
-  </tr>
-  <tr>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=csharp"
+        src="https://techstack-generator.vercel.app/csharp-icon.svg"
         width="65"
         height="65"
-        alt="C#" />
+        alt="icon" />
       <br />C#
     </td>
   </tr>
