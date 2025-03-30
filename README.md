@@ -11,51 +11,51 @@ I am convinced that technology can make a difference, and I am excited to contri
 # Tech Stack:
 <table style="text-align: center; margin: auto;">
     <tr>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65">
-            <p>HTML5</p>
+            <p style="text-align: center;">HTML5</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65">
-            <p>CSS3</p>
+            <p style="text-align: center;">CSS3</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 65px; height: 65px;">
-            <p>JavaScript</p>
+            <p style="text-align: center;">JavaScript</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65">
-            <p>NodeJS</p>
+            <p style="text-align: center;">NodeJS</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=express" alt="Express" width="65">
-            <p>Express</p>
+            <p style="text-align: center;">Express</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="65">
-            <p>Cisco</p>
+            <p style="text-align: center;">Cisco</p>
         </td>
     </tr>
     <tr>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=pug" alt="Pug" width="65">
-            <p>Pug</p>
+            <p style="text-align: center;">Pug</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" width="65">
-            <p>Illustrator</p>
+            <p style="text-align: center;">Illustrator</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://skillicons.dev/icons?i=adobexd" alt="Adobe XD" width="65">
-            <p>Adobe XD</p>
+            <p style="text-align: center;">Adobe XD</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" style="width: 65px; height: 65px;">
-            <p>C#</p>
+            <p style="text-align: center;">C#</p>
         </td>
-        <td style="text-align: center;">
+        <td>
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" style="width: 65px; height: 65px;">
-            <p>GitHub</p>
+            <p style="text-align: center;">GitHub</p>
         </td>
     </tr>
 </table>
