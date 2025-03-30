@@ -8,56 +8,99 @@ I love participating in diverse projects that challenge me and allow me to devel
 I am convinced that technology can make a difference, and I am excited to contribute to innovative projects. If you are looking for someone with a positive mindset, results-oriented and willing to learn, I would be happy to be part of your team.
 
 
-# Tech Stack:
-<table style="text-align: center; margin: auto; border-spacing: 10px;">
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65">
-            <p style="margin: 0; text-align: center;">HTML5</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65">
-            <p style="margin: 0; text-align: center;">CSS3</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 65px; height: 65px;">
-            <p style="margin: 0; text-align: center;">JavaScript</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65">
-            <p style="margin: 0; text-align: center;">NodeJS</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=express" alt="Express" width="65">
-            <p style="margin: 0; text-align: center;">Express</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://www.flaticon.com/svg/static/icons/svg/1083/1083807.svg" alt="Cisco" width="65">
-            <p style="margin: 0; text-align: center;">Cisco</p>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=pug" alt="Pug" width="65">
-            <p style="margin: 0; text-align: center;">Pug</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" width="65">
-            <p style="margin: 0; text-align: center;">Illustrator</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://www.flaticon.com/svg/static/icons/svg/888/888903.svg" alt="Adobe XD" width="65">
-            <p style="margin: 0; text-align: center;">Adobe XD</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" style="width: 65px; height: 65px;">
-            <p style="margin: 0; text-align: center;">C#</p>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" style="width: 65px; height: 65px;">
-            <p style="margin: 0; text-align: center;">GitHub</p>
-        </td>
-    </tr>
+<h2 align="center">Tech Stack:</h2>
+
+###
+
+<br clear="both" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="65"
+        height="65"
+        alt="NodeJS" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="65"
+        height="65"
+        alt="Express" />
+      <br />Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="65"
+        height="65"
+        alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="65"
+        height="65"
+        alt="tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="65"
+        height="65"
+        alt="bootstrap" />
+        <br />Bootstrap
+    </td>
+    <td align="center" width="128">
+      <img
+      src="https://skillicons.dev/icons?i=php"
+      width="65"
+      height="65"
+        alt="PHP" />
+      <br />PHP
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vscode"
+        width="65"
+        height="65"
+        alt="VsCode" />
+      <br />VsCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/github-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Github
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65"
+        height="65"
+        alt="Git" />
+      <br />Git
+    </td>
+  </tr>
 </table>
 
 # GitHub Stats:
